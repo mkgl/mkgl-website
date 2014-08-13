@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+h1 {
+	color: #da444f;
+	font-size: 200px;
+	line-height: 1;
+	margin: 0;
+}
+
+a {
+	color: #da444f;
+	text-decoration: none;
+}
+
+a:hover, a:focus {
+	text-decoration: underline;
+}
